@@ -1,0 +1,12 @@
+BODY{
+	background-color: blue;
+
+}
+p{
+	border: 2px solid;
+	margin-top: 50px ;
+	margin-right:40px ;
+	padding-top: 60px ;
+	padding-bottom: 30px;
+
+}
